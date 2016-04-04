@@ -7,3 +7,4 @@ Files will be uploaded to this repository alphabetically. So all the volunteers 
 Following are the list of handbook files:
 
 <a href="https://github.com/henn-elibrary-project/LTSPHandBook/blob/master/Edubuntu%20Installation.pdf">Edubuntu Installation</a>
+<a href="https://github.com/henn-elibrary-project/LTSPHandBook/blob/master/handbook.odt">handbook</a>: Handbook is a initial handbook design which is helpful for volunteers and trainers to figure out the outlines while conducting trainings as well as preparing manuals. In the file handbook all the points listed out as heading are important topics which should be taught during any training. Also it is necessary for every volunteers to learn them in order to troubleshoot the problems they face while visiting any elibrary site. Author of this document is <a href="https://github.com/aadeshnpn"> Mr. Aadesh Neupane</a>. Aadesh has volunteered as Technical Lead of HeNN E-Library Project in the year 2013 A.D.
