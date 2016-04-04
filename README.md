@@ -6,4 +6,4 @@ This LTSPHandBook will also be a Linux hand book for trainers and student, since
 Files will be uploaded to this repository alphabetically. So all the volunteers are requested to add their documents/ manuals that they have prepared in this readme albhabetically in ascending order.
 Following are the list of handbook files:
 
-<a href="#">Edubuntu Installation</a>
+<a href="https://github.com/henn-elibrary-project/LTSPHandBook/blob/master/Edubuntu%20Installation.pdf">Edubuntu Installation</a>
