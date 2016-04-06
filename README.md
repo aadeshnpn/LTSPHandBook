@@ -40,4 +40,4 @@ Author of this document is <a href="https://www.facebook.com/pgaijin66">Mr. Prab
 ---
 LTSP MANUAL is one important manual which almost covers most of the troubleshooting and linux commands part. This manual contains the dhcp configuration and troubleshooting, file and architecture, file permission and many more.
 
-Autho of this document is <a href="https://www.facebook.com/Mirgen.chaudhary">Mr. Mrigendra CHaudhary. Mrigendra has volunteered to the HeNN E-Library Project since 2011 A.D. for monitoring, deployment, teachers training, training of trainee, troubleshooting etc.
+Autho of this document is <a href="https://www.facebook.com/Mirgen.chaudhary">Mr. Mrigendra CHaudhary.</a> Mrigendra has volunteered to the HeNN E-Library Project since 2011 A.D. for monitoring, deployment, teachers training, training of trainee, troubleshooting etc.
